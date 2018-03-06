@@ -1,8 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/*
+*****************************************
+* LinkedListStack.cs           2018     *
+*                                       *
+* Simple example of Stack using         *
+* LinkedList                            *
+*                                       *
+* Jason Thatcher                        *
+*****************************************
+*/
+
+using System;
 
 namespace LinkedList_Stack
 {

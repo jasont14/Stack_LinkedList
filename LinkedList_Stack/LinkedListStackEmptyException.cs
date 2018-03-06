@@ -1,8 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/*
+*****************************************
+* LinkedListStackException.cs  2018     *
+*                                       *
+* Exception class to deal with empty    *
+*                                       *
+* Jason Thatcher                        *
+*****************************************
+*/
+
+using System;
 
 namespace LinkedList_Stack
 {

@@ -1,8 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/*
+*****************************************
+* Program.cs                   2018     *
+*                                       *
+* Entry point to demo stack.            *
+*                                       *
+* Jason Thatcher                        *
+*****************************************
+*/
+
+using System;
 
 namespace LinkedList_Stack
 {
